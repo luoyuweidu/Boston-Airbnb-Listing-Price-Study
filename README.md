@@ -14,7 +14,7 @@ The code should run with no issues using Python 3.
 
 ## Analysis Motivation <a name="motivation"></a>
 
-For this project, I was interested in understanding what factors are influencing Airbnb's listing price at Boston and want to build a simple model to predict the price. Some specific questions I have in mind are:
+For this project, I was interested in understanding what factors influence Airbnb's listing price at Boston and want to build a simple model to predict the price. Some specific questions I have in mind are:
 
 1. What are the top factors?
 2. Which neighbourhoods have the highest listing price? I've lived at Boston for 2 years when pursuing my graduate degree. I am pretty sure certain areas such as Boston Harbour have higher prices than others.
