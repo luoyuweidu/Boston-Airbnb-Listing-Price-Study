@@ -27,7 +27,7 @@ There are a notebook in the repo to answer above questions. The approach I took 
 
 ## Analysis Results <a name="results"></a>
 
-The findings of the code can also be found at the post on Medium. 
+The findings of the code can also be found [at the post on Medium](https://medium.com/@stacyli0720/boston-airbnb-listing-price-analysis-392ffc2212e2). 
 
 #### What are the top factors that influence listing price?
 
